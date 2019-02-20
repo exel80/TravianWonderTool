@@ -1,5 +1,5 @@
 # TravianWonder Tool
-This is a tool for http://www.travianwonder.com/ Travian World Wonder crop website.
+This is a tool for http://www.travianwonder.com/ Travian World Wonder crop website. It will first login to you Travian account. Script make sure that village is WW village, after that it copy source code from market and pass it to Travianwonder website.
 
 You need Python 3.6 or higher to run it.
 
