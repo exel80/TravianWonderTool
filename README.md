@@ -26,8 +26,8 @@ cropToolName=<Only Crop tool name here>
 
 [General]
 userAgent=<Google "What is my useragent" and use it here>
-minDelay=<After task completed, sleep X amount of range. Minimum value here>
-maxDelay=<After task completed, sleep X amount of range. Maximum value here>
+minDelay=<After task completed, sleep X amount of range. Minimum value in seconds>
+maxDelay=<After task completed, sleep X amount of range. Maximum value in seconds>
 
 [Nightmode]
 nightEnabled=[True|False] <Night time update less often then daytime>
