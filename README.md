@@ -1,6 +1,9 @@
 # TravianWonder Tool
 This is a tool for http://www.travianwonder.com/ Travian World Wonder crop website.
+
 You need Python 3.6 or higher to run it.
+
+![Tool preview](https://i.imgur.com/Ov1qOBT.png)
 
 # Installation
 1. Open terminal and navigate to ``TravianWonder`` folder
