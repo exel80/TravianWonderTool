@@ -1,7 +1,8 @@
 # TravianWonder Tool
-This is a tool for http://www.travianwonder.com/ Travian World Wonder crop website. It will first login to you Travian account. Script make sure that village is WW village, after that it copy source code from market and pass it to Travianwonder website.
+This is a tool for http://www.travianwonder.com/ Travian World Wonder crop website.
+Script login to Travian account, navigate to World Wonder village and open up the market. After that it copy source code of incoming trades and passes them to Travianwonder website.
 
-You need Python 3.6 or higher to run it.
+You need **Python 3.6 or higher** to run it.
 
 ![Tool preview](https://i.imgur.com/Ov1qOBT.png)
 
@@ -17,7 +18,7 @@ Here is brief information for each section inside the ``./config.ini``
 username=<Travian Username>
 password=<Travian Password>
 linkToDorf2=<https://link to dorf2.php>
-WWVillageName=<World Wonder name>
+WWVillageName=<World Wonder village name>
 
 [Wonder]
 username=<Travianwonder.com Username>
